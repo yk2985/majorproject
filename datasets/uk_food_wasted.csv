@@ -1,0 +1,9 @@
+,category,type,household,hospitality & food service,retail,manufacturing
+0,recycled,,1.3,0.04,0.15,0.44
+1,recycled,council,0.78,,0.15,
+2,recycled,home,0.53,,,
+3,recovery,,3.0,0.84,0.15,1.1
+4,recovery,energy,,,0.15,
+5,disposal,,2.3,0.21,,0.002
+6,disposal,sewer,1.5,,,
+7,disposal,landfill,0.8,0.2,,0.002

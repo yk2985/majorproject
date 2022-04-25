@@ -1,0 +1,217 @@
+,MILK,consumption
+0,Afghanistan,62.23 kg
+1,Africa,43.82 kg
+2,Albania,303.72 kg
+3,Algeria,141.53 kg
+4,Americas,168.84 kg
+5,Angola,12.30 kg
+6,Antigua and Barbuda,123.74 kg
+7,Argentina,195.08 kg
+8,Armenia,209.03 kg
+9,Asia,60.31 kg
+10,"Asia, Central",168.68 kg
+11,Australia,234.49 kg
+12,Australia & New Zealand,218.76 kg
+13,Austria,258.09 kg
+14,Azerbaijan,152.07 kg
+15,Bahamas,104.76 kg
+16,Bangladesh,21.91 kg
+17,Barbados,110.48 kg
+18,Belarus,133.73 kg
+19,Belgium,236.19 kg
+20,Belgium-Luxembourg, 227.86 kg
+21,Belize,80.30 kg
+22,Benin,8.40 kg
+23,Bermuda,95.56 kg
+24,Bolivia,46.04 kg
+25,Bosnia and Herzegovina,174.03 kg
+26,Botswana,117.74 kg
+27,Brazil,149.28 kg
+28,Brunei,70.47 kg
+29,Bulgaria,155.71 kg
+30,Burkina Faso,29.79 kg
+31,Cambodia,3.47 kg
+32,Cameroon,15.27 kg
+33,Canada,187.77 kg
+34,Cape Verde,115.64 kg
+35,Caribbean,69.86 kg
+36,Central African Republic,13.53 kg
+37,Central America,105.40 kg
+38,Chad,20.63 kg
+39,Chile,116.11 kg
+40,China,32.66 kg
+41,Colombia,108.47 kg
+42,Congo,10.69 kg
+43,Costa Rica,183.28 kg
+44,Cote d'Ivoire,6.36 kg
+45,Croatia,231.02 kg
+46,Cuba,99.94 kg
+47,Cyprus,113.31 kg
+48,Czechia,195.20 kg
+49,Czechoslovakia, 134.46 kg
+50,Denmark,277.30 kg
+51,Djibouti,59.81 kg
+52,Dominica,136.93 kg
+53,Dominican Republic,73.75 kg
+54,Eastern Africa,40.38 kg
+55,Eastern Asia,35.84 kg
+56,Eastern Europe,171.05 kg
+57,Ecuador,139.60 kg
+58,Egypt,59.46 kg
+59,El Salvador,124.34 kg
+60,Estonia,284.85 kg
+61,Eswatini,56.60 kg
+62,Ethiopia,44.14 kg
+63,Ethiopia PDR, 16.69 kg
+64,Europe,215.11 kg
+65,"Europe, Western",261.29 kg
+66,European Union,236.41 kg
+67,Fiji,40.20 kg
+68,Finland,430.76 kg
+69,France,241.31 kg
+70,French Polynesia,93.56 kg
+71,Gabon,30.16 kg
+72,Gambia,45.71 kg
+73,Georgia,149.26 kg
+74,Germany,258.70 kg
+75,Ghana,9.08 kg
+76,Greece,255.26 kg
+77,Grenada,86.88 kg
+78,Guatemala,46.60 kg
+79,Guinea,20.62 kg
+80,Guinea-Bissau,19.88 kg
+81,Guyana,141.68 kg
+82,Haiti,18.98 kg
+83,Honduras,91.33 kg
+84,Hong Kong,105.85 kg
+85,Hungary,159.05 kg
+86,Iceland,225.82 kg
+87,India,84.50 kg
+88,Indonesia,14.82 kg
+89,Iran,46.69 kg
+90,Iraq,22.18 kg
+91,Ireland,291.86 kg
+92,Israel,193.60 kg
+93,Italy,246.88 kg
+94,Jamaica,91.13 kg
+95,Japan,72.06 kg
+96,Jordan,77.68 kg
+97,Kazakhstan,288.12 kg
+98,Kenya,94.86 kg
+99,Kiribati,10.93 kg
+100,Kuwait,157.66 kg
+101,Kyrgyzstan,210.92 kg
+102,Land Locked Developing Countries,66.81 kg
+103,Laos,2.92 kg
+104,Latvia,174.11 kg
+105,Least Developed Countries,37.32 kg
+106,Lebanon,114.52 kg
+107,Lesotho,25.35 kg
+108,Liberia,3.04 kg
+109,Lithuania,295.46 kg
+110,Low Income Food Deficit Countries,72.10 kg
+111,Luxembourg,255.30 kg
+112,Macao,37.46 kg
+113,Madagascar,24.84 kg
+114,Malawi,7.98 kg
+115,Malaysia,25.28 kg
+116,Maldives,111.47 kg
+117,Mali,98.68 kg
+118,Malta,190.06 kg
+119,Mauritania,160.82 kg
+120,Mauritius,117.27 kg
+121,Melanesia,38.91 kg
+122,Mexico,111.87 kg
+123,Micronesia (region),10.93 kg
+124,Middle Africa,15.31 kg
+125,Moldova,155.18 kg
+126,Mongolia,139.82 kg
+127,Montenegro,349.21 kg
+128,Morocco,54.68 kg
+129,Mozambique,4.79 kg
+130,Myanmar,31.48 kg
+131,Namibia,73.05 kg
+132,Nepal,52.10 kg
+133,Net Food Importing Developing Countries,66.60 kg
+134,Netherlands,341.47 kg
+135,Netherlands Antilles, 162.36 kg
+136,New Caledonia,108.00 kg
+137,New Zealand,137.25 kg
+138,Nicaragua,85.16 kg
+139,Niger,58.92 kg
+140,Nigeria,7.91 kg
+141,North Korea,3.79 kg
+142,North Macedonia,157.93 kg
+143,Northern Africa,95.38 kg
+144,Northern America,248.03 kg
+145,Northern Europe,261.44 kg
+146,Norway,261.34 kg
+147,Oceania,204.33 kg
+148,Oman,152.28 kg
+149,Pakistan,183.13 kg
+150,Panama,70.29 kg
+151,Paraguay,75.72 kg
+152,Peru,62.15 kg
+153,Philippines,15.66 kg
+154,Poland,205.39 kg
+155,Polynesia,76.88 kg
+156,Portugal,205.04 kg
+157,Romania,238.33 kg
+158,Russia,163.57 kg
+159,Rwanda,7.23 kg
+160,Saint Kitts and Nevis,87.36 kg
+161,Saint Lucia,80.65 kg
+162,Saint Vincent and the Grenadines,87.62 kg
+163,Samoa,52.55 kg
+164,Sao Tome and Principe,22.58 kg
+165,Saudi Arabia,83.65 kg
+166,Senegal,16.86 kg
+167,Serbia,148.53 kg
+168,Serbia and Montenegro, 162.03 kg
+169,Sierra Leone,7.00 kg
+170,Slovakia,143.14 kg
+171,Slovenia,235.01 kg
+172,Small island developing States,68.22 kg
+173,Solomon Islands,11.52 kg
+174,South Africa,55.75 kg
+175,South America,134.84 kg
+176,South Eastern Asia,18.35 kg
+177,South Korea,29.05 kg
+178,Southern Africa,57.46 kg
+179,Southern Asia,85.99 kg
+180,Southern Europe,211.55 kg
+181,Spain,164.29 kg
+182,Sri Lanka,34.98 kg
+183,Sudan,155.20 kg
+184,Sudan (former), 170.42 kg
+185,Suriname,48.97 kg
+186,Sweden,341.23 kg
+187,Switzerland,318.69 kg
+188,Taiwan,41.72 kg
+189,Tajikistan,54.54 kg
+190,Tanzania,40.29 kg
+191,Thailand,29.35 kg
+192,Timor,10.96 kg
+193,Togo,7.96 kg
+194,Trinidad and Tobago,103.80 kg
+195,Tunisia,114.47 kg
+196,Turkey,193.94 kg
+197,Turkmenistan,137.09 kg
+198,USSR, 154.64 kg
+199,Uganda,37.27 kg
+200,Ukraine,145.03 kg
+201,United Arab Emirates,132.66 kg
+202,United Kingdom,232.20 kg
+203,United States,254.69 kg
+204,Uruguay,210.54 kg
+205,Uzbekistan,130.81 kg
+206,Vanuatu,25.21 kg
+207,Venezuela,117.79 kg
+208,Vietnam,16.36 kg
+209,Western Africa,18.96 kg
+210,Western Asia,122.86 kg
+211,World,90.00 kg
+212,Yemen,43.97 kg
+213,Yugoslavia, 172.38 kg
+214,Zambia,9.71 kg
+215,Zimbabwe,31.90 kg
