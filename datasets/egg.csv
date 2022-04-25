@@ -1,0 +1,217 @@
+,Country,Unnamed: 1,Eggs
+0,Afghanistan,0.94 kg,1.50 kg
+1,Africa,1.20 kg,2.65 kg
+2,Albania,1.50 kg,14.66 kg
+3,Algeria,1.18 kg,8.43 kg
+4,Americas,10.22 kg,12.18 kg
+5,Angola,0.35 kg,0.67 kg
+6,Antigua and Barbuda,1.69 kg,2.88 kg
+7,Argentina,8.74 kg,15.50 kg
+8,Armenia,1992 3.64 kg,11.64 kg
+9,Asia,1.86 kg,9.39 kg
+10,"Asia, Central",1992 6.14 kg,5.73 kg
+11,Australia,11.72 kg,8.03 kg
+12,Australia & New Zealand,12.79 kg,8.73 kg
+13,Austria,12.97 kg,14.69 kg
+14,Azerbaijan,1992 5.82 kg,8.86 kg
+15,Bahamas,2.03 kg,7.07 kg
+16,Bangladesh,0.32 kg,2.85 kg
+17,Barbados,1.93 kg,9.51 kg
+18,Belarus,1992 17.22 kg,14.71 kg
+19,Belgium,2000 10.96 kg,13.18 kg
+20,Belgium-Luxembourg,15.19 kg,14.54 kg
+21,Belize,2.27 kg,4.62 kg
+22,Benin,1.10 kg,1.02 kg
+23,Bermuda,10.90 kg, 14.92 kg
+24,Bolivia,2.23 kg,7.38 kg
+25,Bosnia and Herzegovina,1992 3.89 kg,5.11 kg
+26,Botswana,0.29 kg,1.50 kg
+27,Brazil,2.73 kg,7.77 kg
+28,Brunei,4.37 kg, 16.16 kg
+29,Bulgaria,5.50 kg,8.62 kg
+30,Burkina Faso,0.49 kg,2.40 kg
+31,Cambodia,0.66 kg,1.32 kg
+32,Cameroon,0.34 kg,0.35 kg
+33,Canada,15.18 kg,14.17 kg
+34,Cape Verde,0.11 kg,4.82 kg
+35,Caribbean,2.35 kg, 5.64 kg
+36,Central African Republic,0.35 kg,0.49 kg
+37,Central America,3.52 kg, 15.96 kg
+38,Chad,0.59 kg,0.34 kg
+39,Chile,3.45 kg,10.49 kg
+40,China,2.04 kg,22.72 kg
+41,Colombia,2.41 kg,12.79 kg
+42,Congo,0.33 kg,0.56 kg
+43,Costa Rica,5.26 kg,10.51 kg
+44,Cote d'Ivoire,0.33 kg,2.05 kg
+45,Croatia,1992 9.90 kg,8.06 kg
+46,Cuba,3.24 kg,8.89 kg
+47,Cyprus,5.19 kg,7.87 kg
+48,Czechia,1993 12.70 kg,8.63 kg
+49,Czechoslovakia,9.34 kg, 15.48 kg
+50,Denmark,10.46 kg,15.79 kg
+51,Djibouti,0.00 kg,1.10 kg
+52,Dominica,1.26 kg,2.46 kg
+53,Dominican Republic,3.06 kg,10.17 kg
+54,Eastern Africa,1.16 kg, 1.03 kg
+55,Eastern Asia,2.86 kg, 18.22 kg
+56,Eastern Europe,7.18 kg, 14.17 kg
+57,Ecuador,1.60 kg,7.78 kg
+58,Egypt,0.99 kg,3.45 kg
+59,El Salvador,4.56 kg,8.73 kg
+60,Estonia,1992 15.39 kg,12.69 kg
+61,Eswatini,0.47 kg,1.68 kg
+62,Ethiopia,1993 0.45 kg,0.43 kg
+63,Ethiopia PDR,1.98 kg, 1.19 kg
+64,Europe,9.04 kg, 12.99 kg
+65,"Europe, Western",12.09 kg, 12.74 kg
+66,European Union,10.54 kg, 12.04 kg
+67,Fiji,1.63 kg,3.92 kg
+68,Finland,7.35 kg,8.74 kg
+69,France,10.54 kg,11.53 kg
+70,French Polynesia,1.65 kg,7.31 kg
+71,Gabon,0.26 kg,0.96 kg
+72,Gambia,0.41 kg,1.41 kg
+73,Georgia,1992 3.12 kg,6.11 kg
+74,Germany,12.63 kg,11.22 kg
+75,Ghana,0.47 kg,1.20 kg
+76,Greece,5.70 kg,8.60 kg
+77,Grenada,6.00 kg,9.69 kg
+78,Guatemala,5.91 kg,13.49 kg
+79,Guinea,0.74 kg,1.86 kg
+80,Guinea-Bissau,0.18 kg,0.81 kg
+81,Guyana,2.64 kg,1.86 kg
+82,Haiti,0.35 kg,0.47 kg
+83,Honduras,4.17 kg,4.34 kg
+84,Hong Kong,7.37 kg,18.53 kg
+85,Hungary,9.25 kg,13.61 kg
+86,Iceland,4.37 kg,10.93 kg
+87,India,0.31 kg,3.25 kg
+88,Indonesia,0.45 kg,5.57 kg
+89,Iran,2.38 kg,7.38 kg
+90,Iraq,1.25 kg,9.44 kg
+91,Ireland,13.90 kg,9.13 kg
+92,Israel,17.35 kg,9.99 kg
+93,Italy,9.05 kg,11.77 kg
+94,Jamaica,2.21 kg,1.98 kg
+95,Japan,9.14 kg,19.64 kg
+96,Jordan,2.13 kg,3.28 kg
+97,Kazakhstan,1992 9.97 kg,8.62 kg
+98,Kenya,0.85 kg,1.33 kg
+99,Kiribati,1.71 kg,2.06 kg
+100,Kuwait,1.64 kg,18.31 kg
+101,Kyrgyzstan,1992 7.17 kg,4.32 kg
+102,Land Locked Developing Countries,0.91 kg, 2.45 kg
+103,Laos,0.34 kg,1.89 kg
+104,Latvia,1992 11.80 kg,12.49 kg
+105,Least Developed Countries,0.73 kg, 1.64 kg
+106,Lebanon,2.74 kg,2.13 kg
+107,Lesotho,1.01 kg,0.93 kg
+108,Liberia,1.72 kg,1.21 kg
+109,Lithuania,1992 12.14 kg,15.01 kg
+110,Low Income Food Deficit Countries,0.54 kg, 2.31 kg
+111,Luxembourg,2000 10.16 kg,15.58 kg
+112,Macao,4.05 kg,18.17 kg
+113,Madagascar,1.55 kg,0.65 kg
+114,Malawi,0.78 kg,1.13 kg
+115,Malaysia,2.15 kg,17.88 kg
+116,Maldives,0.00 kg,11.74 kg
+117,Mali,0.65 kg,0.71 kg
+118,Malta,8.08 kg,11.95 kg
+119,Mauritania,1.39 kg,2.32 kg
+120,Mauritius,1.54 kg,6.40 kg
+121,Melanesia,1.89 kg, 4.87 kg
+122,Mexico,3.04 kg,19.31 kg
+123,Micronesia (region),1.71 kg, 2.78 kg
+124,Middle Africa,0.39 kg, 0.64 kg
+125,Moldova,1992 5.84 kg,7.94 kg
+126,Mongolia,0.16 kg,4.07 kg
+127,Montenegro,2006 4.35 kg,12.04 kg
+128,Morocco,2.39 kg,6.79 kg
+129,Mozambique,0.02 kg,1.95 kg
+130,Myanmar,0.58 kg,5.40 kg
+131,Namibia,0.11 kg,1.36 kg
+132,Nepal,0.82 kg,1.98 kg
+133,Net Food Importing Developing Countries,0.99 kg, 2.71 kg
+134,Netherlands,12.74 kg,14.12 kg
+135,Netherlands Antilles,3.87 kg, 4.42 kg
+136,New Caledonia,4.00 kg,8.76 kg
+137,New Zealand,17.42 kg,10.42 kg
+138,Nicaragua,4.38 kg,5.45 kg
+139,Niger,0.61 kg,0.24 kg
+140,Nigeria,1.50 kg,2.49 kg
+141,North Korea,2.89 kg,4.60 kg
+142,North Macedonia,1992 9.91 kg,5.04 kg
+143,Northern Africa,1.24 kg, 5.09 kg
+144,Northern America,17.44 kg, 14.42 kg
+145,Northern Europe,13.42 kg,11.50 kg
+146,Norway,8.54 kg,11.58 kg
+147,Oceania,12.07 kg, 8.42 kg
+148,Oman,1990 6.48 kg,8.15 kg
+149,Pakistan,0.13 kg,3.36 kg
+150,Panama,4.35 kg,6.01 kg
+151,Paraguay,4.88 kg,12.08 kg
+152,Peru,1.51 kg,8.95 kg
+153,Philippines,2.56 kg,4.05 kg
+154,Poland,8.25 kg,6.77 kg
+155,Polynesia,1.36 kg, 6.13 kg
+156,Portugal,3.26 kg,8.44 kg
+157,Romania,6.01 kg,14.35 kg
+158,Russia,1992 14.74 kg,16.02 kg
+159,Rwanda,0.08 kg,0.39 kg
+160,Saint Kitts and Nevis,2.14 kg,4.08 kg
+161,Saint Lucia,2.73 kg,3.70 kg
+162,Saint Vincent and the Grenadines,2.02 kg,4.49 kg
+163,Samoa,1.14 kg,2.19 kg
+164,Sao Tome and Principe,0.82 kg,0.69 kg
+165,Saudi Arabia,0.48 kg,6.56 kg
+166,Senegal,0.81 kg,1.65 kg
+167,Serbia,2006 7.00 kg,9.42 kg
+168,Serbia and Montenegro,1992 7.44 kg, 7.07 kg
+169,Sierra Leone,0.75 kg,1.41 kg
+170,Slovakia,1993 15.78 kg,12.93 kg
+171,Slovenia,1992 7.50 kg,9.87 kg
+172,Small island developing States,2.18 kg, 5.27 kg
+173,Solomon Islands,1.46 kg,1.09 kg
+174,South Africa,2.48 kg,6.61 kg
+175,South America,3.66 kg, 9.26 kg
+176,South Eastern Asia,2.05 kg, 5.99 kg
+177,South Korea,1.41 kg,10.25 kg
+178,Southern Africa,2.25 kg, 6.49 kg
+179,Southern Asia,0.41 kg, 2.79 kg
+180,Southern Europe,6.93 kg, 12.01 kg
+181,Spain,7.87 kg,13.73 kg
+182,Sri Lanka,0.92 kg,4.27 kg
+183,Sudan,2012 0.97 kg,1.19 kg
+184,Sudan (former),0.65 kg, 0.74 kg
+185,Suriname,1.87 kg,6.29 kg
+186,Sweden,11.47 kg,13.50 kg
+187,Switzerland,9.82 kg,10.00 kg
+188,Taiwan,1.56 kg,13.96 kg
+189,Tajikistan,1992 2.10 kg,2.44 kg
+190,Tanzania,0.93 kg,0.35 kg
+191,Thailand,8.94 kg,12.36 kg
+192,Timor,1.03 kg,0.80 kg
+193,Togo,0.25 kg,0.95 kg
+194,Trinidad and Tobago,1.07 kg,4.14 kg
+195,Tunisia,1.34 kg,7.79 kg
+196,Turkey,1.99 kg,7.43 kg
+197,Turkmenistan,1992 4.06 kg,7.07 kg
+198,USSR,6.96 kg,14.37 kg
+199,Uganda,0.58 kg,0.88 kg
+200,Ukraine,1992 12.96 kg,14.43 kg
+201,United Arab Emirates,1.27 kg,7.48 kg
+202,United Kingdom,14.80 kg,11.23 kg
+203,United States,17.66 kg,15.57 kg
+204,Uruguay,5.94 kg,11.83 kg
+205,Uzbekistan,1992 4.47 kg,6.59 kg
+206,Vanuatu,1.65 kg,2.46 kg
+207,Venezuela,5.46 kg,3.62 kg
+208,Vietnam,1.51 kg,4.39 kg
+209,Western Africa,1.10 kg,2.51 kg
+210,Western Asia,2.32 kg, 7.35 kg
+211,World,4.55 kg, 9.19 kg
+212,Yemen,0.55 kg,1.56 kg
+213,Yugoslavia,2.45 kg, 8.22 kg
+214,Zambia,0.81 kg,2.42 kg
+215,Zimbabwe,1.48 kg,1.81 kg
